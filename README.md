@@ -1,0 +1,1 @@
+Kevin.ai is a shitposting bot that will post to an Instagram account and change it's behavior based on interactions with other users.
